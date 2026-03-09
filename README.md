@@ -1,5 +1,6 @@
 Вот подробное описание проекта в формате Markdown, готовое для использования в портфолио, технической документации или презентации.
-[скрин](https://github.com/spasatel653/remont/blob/main/Снимок%20экрана%202026-03-09%20в%2016.12.30.png?raw=true) 
+ [
+](https://github.com/spasatel653/remont/blob/main/Снимок%20экрана%202026-03-09%20в%2016.12.30.png?raw=true)
 Сссылка на проект - https://t.me/Remont_Olga_Elena_bot 
 
 ## 📋 Обзор проекта
